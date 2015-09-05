@@ -17,32 +17,32 @@
 <resources>
 
     <!--- Colors modify the background of the clock and change hourly -->
-    <color name="hour_00">#212121</color><!-- Midnight -->
-    <color name="hour_01">#212121</color>
-    <color name="hour_02">#212121</color>
-    <color name="hour_03">#212121</color>
-    <color name="hour_04">#212121</color>
-    <color name="hour_05">#212121</color>
-    <color name="hour_06">#212121</color>
-    <color name="hour_07">#212121</color>
-    <color name="hour_08">#212121</color>
-    <color name="hour_09">#212121</color>
-    <color name="hour_10">#212121</color>
-    <color name="hour_11">#212121</color>
-    <color name="hour_12">#212121</color><!-- Noon -->
-    <color name="hour_13">#212121</color>
-    <color name="hour_14">#212121</color>
-    <color name="hour_15">#212121</color>
-    <color name="hour_16">#212121</color>
-    <color name="hour_17">#212121</color>
-    <color name="hour_18">#212121</color>
-    <color name="hour_19">#212121</color>
-    <color name="hour_20">#212121</color>
-    <color name="hour_21">#212121</color>
-    <color name="hour_22">#212121</color>
-    <color name="hour_23">#212121</color>
+    <color name="hour_00">#424242</color><!-- Midnight -->
+    <color name="hour_01">#424242</color>
+    <color name="hour_02">#424242</color>
+    <color name="hour_03">#424242</color>
+    <color name="hour_04">#424242</color>
+    <color name="hour_05">#424242</color>
+    <color name="hour_06">#424242</color>
+    <color name="hour_07">#424242</color>
+    <color name="hour_08">#424242</color>
+    <color name="hour_09">#424242</color>
+    <color name="hour_10">#424242</color>
+    <color name="hour_11">#424242</color>
+    <color name="hour_12">#424242</color><!-- Noon -->
+    <color name="hour_13">#424242</color>
+    <color name="hour_14">#424242</color>
+    <color name="hour_15">#424242</color>
+    <color name="hour_16">#424242</color>
+    <color name="hour_17">#424242</color>
+    <color name="hour_18">#424242</color>
+    <color name="hour_19">#424242</color>
+    <color name="hour_20">#424242</color>
+    <color name="hour_21">#424242</color>
+    <color name="hour_22">#424242</color>
+    <color name="hour_23">#424242</color>
 
     <!--- Color to modify the numpad color in timer -->
-    <color name="numpad_color">#ffffff</color>
+    <color name="numpad_color">#f5f5f5</color>
 
 </resources>

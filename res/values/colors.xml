@@ -36,7 +36,7 @@
     <color name="blackish_selected">#0cffffff</color>
     <color name="transparent">#00000000</color>
 
-    <color name="hot_pink">#ffff6f00</color>
+    <color name="hot_pink">#ffe64a19</color>
     <color name="hairline">#70ffffff</color>
     <color name="bright_foreground_light_disabled">#80000000</color>
 
@@ -44,9 +44,9 @@
     <color name="clock_gray">#B3ffffff</color>
 
     <!-- App icon color as default -->
-    <color name="default_background">#212121</color>
+    <color name="default_background">#ff424242</color>
     <color name="status_bar">#20000000</color>
 
-    <color name="time_picker_gray">#212121</color>
+    <color name="time_picker_gray">#ff424242</color>
 
 </resources>
